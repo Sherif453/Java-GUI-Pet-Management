@@ -18,14 +18,8 @@ Technologies Used
 - NetBeans IDE  
 
 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sherif453/Java-GUI-Pet-Management
-2.Open the project in NetBeans.
-3.Make sure JavaFX libraries are correctly configured.
-4.Run the main application file.
+1. Clone the repository: https://github.com/Sherif453/Java-GUI-Pet-Management
+2. Open the project in IntelliJ, Eclipse, or NetBeans
+3. Make sure JavaFX libraries are correctly configured
+4. Run the main application file
 
-Purpose
-This project showcases OOP practice, event handling, GUI development with JavaFX, and clean code organization across multiple screens.
-   ```bash
-   git clone https://github.com/Sherif453/Java-GUI-Pet-Management
